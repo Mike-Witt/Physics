@@ -1,5 +1,4 @@
-<title>Mike-Witt/Physics/README.md</title>
-<h2>Misc. Physics Programs</h2>
+<h1>Physics</h1>
 
 <h3>symbolic_calculations.py</h3>
 
