@@ -9,5 +9,5 @@ symbolic form. Used by the <code>Curvature_2d.ipynb</code> notebook.
 
 Given the metric tensor in symbolic form, calculate other objects of
 interest. Probably the only interesting case here is the two dimensional
-spherical surface.
+spherical surface. Imports <code>symbolic_calculations.py</code>.
 
