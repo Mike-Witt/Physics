@@ -1,18 +1,14 @@
-# Physics
+<title>Mike-Witt/Physics/README.md</title>
+<h2>Misc. Physics Programs</h2>
 
-Can I put regular html here?
-<p>
-Let's see.
+<h3>symbolic_calculations.py</h3>
 
-hmmm...
+Functions to calculate the main GR tensors, given a metric tensor in
+symbolic form. Used by the <code>Curvature_2d.ipynb</code> notebook.
 
+<h3>Curvature_2d.ipynb</h3>
 
-<h2>Title 2</h2>
+Given the metric tensor in symbolic form, calculate other objects of
+interest. Probably the only interesting case here is the two dimensional
+spherical surface.
 
-And a link:
-
-<a href="pdx.edu">pdx.edu</a>
-<pre>
-This was only a test
-</pre>
-xxxxx
